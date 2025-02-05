@@ -15,7 +15,8 @@ I specialize in building modern web applications with a focus on clean, maintain
 
 Here are some of my projects, showcasing my experience with various technologies:
 
-{% for repo in site.github.public_repositories %}
+{% assign sorted_repos = site.github.public_repositories | sort: 'created_at' %}
+{% for repo in sorted_repos %}
 
 - **[{{ repo.name }}]({{ repo.html_url }})** ({{ repo.language }})
   {% endfor %}
