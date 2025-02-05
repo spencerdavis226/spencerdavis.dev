@@ -1,0 +1,30 @@
+title: 'Spencer Davis'
+email: 'sdavis26@me.com'
+description: 'Software Engineer | Full-Stack Developer. Passionate about building modern web applications.'
+baseurl: '' # Leave blank for root
+url: 'https://spencerdavis.dev' # Change to match your site URL
+
+github_username: spencerdavis226
+linkedin_username: davisspencer
+
+repository: spencerdavis226/spencerdavis.dev
+
+# Use the DEFAULT Jekyll theme (Minima)
+theme: minima
+
+# Plugins (keeps it simple)
+plugins:
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+
+# Navigation Links
+header_pages:
+  - about.markdown
+  - resume.markdown
+
+# Exclude unnecessary files
+exclude:
+  - .jekyll-cache/
+  - node_modules/
+  - Gemfile
+  - Gemfile.lock
