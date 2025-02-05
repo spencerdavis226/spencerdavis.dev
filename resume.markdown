@@ -14,13 +14,14 @@ title: Resume
 
   .pdf-container object {
     width: 100%;
-    height: 80vh; /* Adjust as needed */
+    height: auto;  /* Let the height be automatically adjusted */
+    max-height: 80vh; /* Limit the height to 80% of the viewport height */
     max-width: 100%;
   }
 </style>
 
 <div class="pdf-container">
-  <object data="{{ '/assets/images/resume.pdf' | relative_url }}" type="application/pdf" width="100%" height="800px">
+  <object data="{{ '/assets/images/resume.pdf' | relative_url }}" type="application/pdf" width="100%" height="auto">
     <p>Your browser does not support PDFs. <a href="{{ '/assets/images/resume.pdf' | relative_url }}">Download the PDF</a>.</p>
   </object>
 </div>
