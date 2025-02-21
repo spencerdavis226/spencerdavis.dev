@@ -11,15 +11,20 @@ I specialize in building modern web applications with a focus on clean, maintain
 
 ![Profile Image](/assets/images/portrait.png)
 
-## Projects
+## Featured Projects (as of February 21, 2025)
 
-Here are some of my projects, showcasing my experience with various technologies:
+For an up-to-date list of what I’m working on, please visit my [GitHub](https://github.com/spencerdavis226).
 
-{% assign sorted_repos = site.github.public_repositories | sort: 'created_at' %}
-{% for repo in sorted_repos %}
+- **[Space Travel](https://github.com/spencerdavis226/Hatchways-React-Space-Travel)**
 
-- **[{{ repo.name }}]({{ repo.html_url }})** ({{ repo.language }})
-  {% endfor %}
+  - A mock solar system exploration app to construct, dispatch, and manage spacecraft.
+
+- **[Space Mission Control](https://github.com/spencerdavis226/space-mission-control)**
+
+  - A control center interface for managing space missions, built with React.
+
+- **[Jeopardy Project](https://github.com/spencerdavis226/Jeopardy-Project)**
+  - A quiz-style game inspired by the TV show, featuring categories and question prompts.
 
 ## Get in Touch
 
