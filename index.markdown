@@ -29,8 +29,9 @@ For more details or additional projects, visit my [GitHub](https://github.com/sp
    - MongoDB (Mongoose)
    - JWT, bcrypt
 
+
 2. **[Space Travel](https://github.com/spencerdavis226/Hatchways-React-Space-Travel)**
-   *A React-based app simulating spacecraft construction and interplanetary travel.*
+*A React-based app simulating spacecraft construction and interplanetary travel.*
 
    **Key Features:**
    - React Router for navigation
@@ -42,7 +43,9 @@ For more details or additional projects, visit my [GitHub](https://github.com/sp
    - React, Vite, CSS Modules
    - Vitest, React Testing Library
 
+
 3. **[Jeopardy Game](https://github.com/spencerdavis226/Jeopardy-Project)**
+
    *A quiz-style web app inspired by the Jeopardy TV show, featuring interactive categories and clues.*
 
    **Key Features:**
@@ -53,6 +56,7 @@ For more details or additional projects, visit my [GitHub](https://github.com/sp
    **Stack:**
    - HTML, CSS, JavaScript
    - Axios, Lodash
+   
 
 ## Get in Touch
 
