@@ -7,7 +7,7 @@ title: 'About'
 
 ## Who I Am
 
-I'm Spencer Davis, a full-stack software engineer who transitioned from a career in chemical engineering. I build web applications that are both user-friendly and robust, and I'm passionate about solving real problems with code.
+I'm Spencer Davis - a full-stack software engineer who transitioned from a career in chemical engineering. I build web applications that are both user-friendly and robust, and I'm passionate about solving real problems with code.
 
 ## My Journey
 
