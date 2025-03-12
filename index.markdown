@@ -17,29 +17,42 @@ For more details or additional projects, visit my [GitHub](https://github.com/sp
 
 1. **[Dog Adoption Platform API](https://github.com/spencerdavis226/Dog-Adoption-Platform-API)**
    A Node.js/Express REST API where users can register, authenticate, and manage dog adoption.
+
    **Key Features**:
-   - JWT auth
+   - JWT authentication
    - Secure dog registration/adoption
-   - Pagination
+   - Pagination for registered and adopted dogs
    - Mocha/Chai/Supertest tests
-   **Stack**: Node.js, Express, MongoDB (Mongoose), JWT, bcrypt
+
+   **Stack**:
+   - Node.js, Express
+   - MongoDB (Mongoose)
+   - JWT, bcrypt
 
 2. **[Space Travel](https://github.com/spencerdavis226/Hatchways-React-Space-Travel)**
    A React-based application simulating spacecraft construction and interplanetary travel.
+
    **Key Features**:
-   - React Router
+   - React Router for navigation
    - Dispatching spacecraft to planets
    - Form validation
-   - Error boundaries
-   **Stack**: React, Vite, CSS Modules, Vitest, React Testing Library
+   - Error boundaries for robust error handling
+
+   **Stack**:
+   - React, Vite, CSS Modules
+   - Vitest, React Testing Library
 
 3. **[Jeopardy Game](https://github.com/spencerdavis226/Jeopardy-Project)**
    A quiz-style web app inspired by the Jeopardy TV show, featuring interactive categories and clues.
+
    **Key Features**:
    - Dynamic category loading (external API)
    - Responsive design
-   - Restart button
-   **Stack**: HTML, CSS, JavaScript, Axios, Lodash
+   - Restart button for fresh categories
+
+   **Stack**:
+   - HTML, CSS, JavaScript
+   - Axios, Lodash
 
 ## Get in Touch
 
