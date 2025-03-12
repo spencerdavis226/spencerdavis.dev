@@ -7,34 +7,32 @@ title: 'About'
 
 ## Who I Am
 
-I’m Spencer Davis, a software engineer with a background in chemical engineering and full-stack development. I love technology, problem-solving, and crafting user-centric web applications.
+I'm Spencer Davis, a full-stack software engineer who transitioned from a career in chemical engineering. I build web applications that are both user-friendly and robust, and I'm passionate about solving real problems with code.
 
-## Background
+## My Journey
 
-Before coding, I honed my analytical skills as a process engineer at Corning Inc. (improving throughput by ~15%). I earned a B.S. in Chemical Engineering from the University of South Florida and an M.Eng. from Cornell. Alongside engineering, I explored music production and streaming—ventures that sharpened my adaptability and creativity.
+I began my engineering career at Transitions Optical as a Mix Lab Engineer, where I streamlined workflows and developed systems to enhance efficiency in photochromic solution management. Later, at Corning Inc., I further honed my skills by improving manufacturing throughput and implementing innovative process improvements. Along the way, I also explored music production and streaming - experiences that expanded my creativity and adaptability.
+
+After earning my B.S. in Chemical Engineering from the University of South Florida and my M.Eng. from Cornell, I decided to follow my passion for software development. I'm currently sharpening my skills in Springboard's Full-Stack Web Development program, with plans to graduate in June 2025.
 
 ## What I Do
 
-I specialize in full-stack web development, focusing on JavaScript, React, Node.js, and Express. My current toolkit includes:
+I build modern, maintainable web applications using a diverse range of technologies. My toolkit includes:
 
-- **Front End**: React, CSS Modules, Responsive UI
-- **Back End**: Node.js, Express, REST APIs
-- **Databases**: MongoDB, PostgreSQL
-- **Testing & Deployment**: Jest, Vitest, CI/CD workflows
-- **Continuous Learning**: Swift, Python, plus game development concepts
+- **Front End:** JavaScript, TypeScript, React, Next.js, Redux, CSS/CSS Modules, and responsive design
+- **Back End:** Node.js, Express, and RESTful API development
+- **Databases:** MongoDB and PostgreSQL
+- **Other Tools & Concepts:** Swift, Python, Agile development, asynchronous programming, object-oriented programming, and an introduction to GraphQL
+- **Testing & Deployment:** Jest, Vitest, React Testing Library, and CI/CD workflows
 
-## Approach to Development
+## My Approach
 
-I prioritize writing maintainable, scalable code that meets real user needs. Whether working solo or in a team, I emphasize robust architecture, clarity, and continuous improvement.
+I focus on writing clean, scalable code that stands the test of time. Whether I'm working alone or as part of a team, I aim to deliver solutions that are robust, well-documented, and easy to maintain.
 
 ## Interests & Goals
 
-- Delivering applications that elevate user experiences and solve real-world problems
-- Combining software engineering with my passion for gaming
-- Contributing to open-source projects and learning more about cloud and AI
-- Securing a **full-time** software engineering role with a team that values creativity and innovation
+I'm driven by the challenge of solving real-world problems and continuously improving my craft. I'm looking for a full-time role where I can contribute to innovative projects, collaborate with a talented team, and keep growing as a developer.
 
-## Let’s Connect
+## Let's Connect
 
-I’m always open to discussions about projects, collaborations, or anything tech-related.
-Reach me on [GitHub](https://github.com/spencerdavis226) or [LinkedIn](https://www.linkedin.com/in/davisspencer/).
+I'm always up for discussing ideas, potential collaborations, or tech topics in general. Reach out on [GitHub](https://github.com/spencerdavis226) or [LinkedIn](https://www.linkedin.com/in/davisspencer/).

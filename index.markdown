@@ -5,7 +5,7 @@ title: Home
 
 # Spencer Davis
 
-**Software Engineer // Full-Stack Developer**
+**Software Engineer / Full-Stack Developer**
 
 I build modern web applications with a focus on clean, maintainable code. My background in chemical engineering gives me a structured approach to problem-solving, which I now apply to software development. I'm currently looking for a **full-time software engineering role** where I can create impactful products.
 
@@ -15,50 +15,34 @@ I build modern web applications with a focus on clean, maintainable code. My bac
 
 For more details or additional projects, visit my [GitHub](https://github.com/spencerdavis226).
 
-1. **[Dog Adoption Platform API](https://github.com/spencerdavis226/Dog-Adoption-Platform-API)**
-   *A Node.js/Express REST API for user registration, authentication, and managing dog adoption.*
+### **[Dog Adoption Platform API](https://github.com/spencerdavis226/Dog-Adoption-Platform-API)**
 
-   **Key Features:**
-   - JWT authentication
-   - Secure dog registration/adoption
-   - Pagination for registered and adopted dogs
-   - Mocha/Chai/Supertest tests
+A Node.js/Express REST API for user registration, authentication, and managing dog adoption.<br>
 
-   **Stack:**
-   - Node.js, Express
-   - MongoDB (Mongoose)
-   - JWT, bcrypt
+- **Key Features:** JWT authentication, secure dog registration/adoption, pagination, Mocha/Chai/Supertest tests.<br>
+- **Stack:** Node.js, Express, MongoDB (Mongoose), JWT, bcrypt
 
+---
 
-2. **[Space Travel](https://github.com/spencerdavis226/Hatchways-React-Space-Travel)**
-*A React-based app simulating spacecraft construction and interplanetary travel.*
+### **[Space Travel](https://github.com/spencerdavis226/Hatchways-React-Space-Travel)**
 
-   **Key Features:**
-   - React Router for navigation
-   - Dispatching spacecraft to planets
-   - Form validation
-   - Error boundaries
+A React-based app simulating spacecraft construction and interplanetary travel.<br>
 
-   **Stack:**
-   - React, Vite, CSS Modules
-   - Vitest, React Testing Library
+- **Key Features:** React Router navigation, dispatching spacecraft to planets, form validation, error boundaries.<br>
+- **Stack:** React, Vite, CSS Modules, Vitest, React Testing Library
 
+---
 
-3. **[Jeopardy Game](https://github.com/spencerdavis226/Jeopardy-Project)**
+### **[Jeopardy Game](https://github.com/spencerdavis226/Jeopardy-Project)**
 
-   *A quiz-style web app inspired by the Jeopardy TV show, featuring interactive categories and clues.*
+A quiz-style web app inspired by the Jeopardy TV show, featuring interactive categories and clues.<br>
 
-   **Key Features:**
-   - Dynamic category loading (external API)
-   - Responsive design
-   - Restart button
+- **Key Features:** Dynamic category loading (external API), responsive design, restart button.<br>
+- **Stack:** HTML, CSS, JavaScript, Axios, Lodash
 
-   **Stack:**
-   - HTML, CSS, JavaScript
-   - Axios, Lodash
-   
+---
 
 ## Get in Touch
 
-Interested in working together or discussing a project?
+Interested in working together or discussing a project?<br>
 📩 [Email Me](mailto:sdavis26@me.com) | [GitHub](https://github.com/spencerdavis226) | [LinkedIn](https://www.linkedin.com/in/davisspencer/)
