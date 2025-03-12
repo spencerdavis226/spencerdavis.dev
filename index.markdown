@@ -16,41 +16,41 @@ I build modern web applications with a focus on clean, maintainable code. My bac
 For more details or additional projects, visit my [GitHub](https://github.com/spencerdavis226).
 
 1. **[Dog Adoption Platform API](https://github.com/spencerdavis226/Dog-Adoption-Platform-API)**
-   A Node.js/Express REST API where users can register, authenticate, and manage dog adoption.
+   *A Node.js/Express REST API for user registration, authentication, and managing dog adoption.*
 
-   **Key Features**:
+   **Key Features:**
    - JWT authentication
    - Secure dog registration/adoption
    - Pagination for registered and adopted dogs
    - Mocha/Chai/Supertest tests
 
-   **Stack**:
+   **Stack:**
    - Node.js, Express
    - MongoDB (Mongoose)
    - JWT, bcrypt
 
 2. **[Space Travel](https://github.com/spencerdavis226/Hatchways-React-Space-Travel)**
-   A React-based application simulating spacecraft construction and interplanetary travel.
+   *A React-based app simulating spacecraft construction and interplanetary travel.*
 
-   **Key Features**:
+   **Key Features:**
    - React Router for navigation
    - Dispatching spacecraft to planets
    - Form validation
-   - Error boundaries for robust error handling
+   - Error boundaries
 
-   **Stack**:
+   **Stack:**
    - React, Vite, CSS Modules
    - Vitest, React Testing Library
 
 3. **[Jeopardy Game](https://github.com/spencerdavis226/Jeopardy-Project)**
-   A quiz-style web app inspired by the Jeopardy TV show, featuring interactive categories and clues.
+   *A quiz-style web app inspired by the Jeopardy TV show, featuring interactive categories and clues.*
 
-   **Key Features**:
+   **Key Features:**
    - Dynamic category loading (external API)
    - Responsive design
-   - Restart button for fresh categories
+   - Restart button
 
-   **Stack**:
+   **Stack:**
    - HTML, CSS, JavaScript
    - Axios, Lodash
 
