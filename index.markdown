@@ -33,12 +33,12 @@ A React-based app simulating spacecraft construction and interplanetary travel.<
 
 ---
 
-### **[Jeopardy Game](https://github.com/spencerdavis226/Jeopardy-Project)**
+### **[MERN Task Manager](https://github.com/spencerdavis226/MERN-Task-Manager)**
 
-A quiz-style web app inspired by the Jeopardy TV show, featuring interactive categories and clues.<br>
+A full-stack task manager built with TypeScript using the MERN stack.<br>
 
-- **Key Features:** Dynamic category loading (external API), responsive design, restart button.<br>
-- **Stack:** HTML, CSS, JavaScript, Axios, Lodash
+- **Key Features:** CRUD operations, filtering, editing, toggling tasks, plus loading and error handling.<br>
+- **Stack:** MongoDB, Express, React, Node.js, TypeScript, Vite, Bootstrap
 
 ---
 
