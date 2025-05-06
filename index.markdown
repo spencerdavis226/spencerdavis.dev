@@ -21,8 +21,7 @@ A full-stack quiz-based learning platform that rewards users with magical powers
 
 - **Key Features:** User authentication, interactive quizzes, progress tracking (mana + mage meter), leaderboards, friend system, responsive design.<br>
 - **Stack:** React, TypeScript, Vite, CSS, React Router, Node.js, Express, MongoDB (Mongoose), JWT<br>
-- **Frontend Demo:** [Vercel](https://quizzard-frontend-9dje4uxec-spencerdavis226s-projects.vercel.app)
-- **Backend API:** [Render](https://quizzard-backend-gq70.onrender.com)
+- **Live Demo:** [Try Quizzard on Vercel](https://quizzard-frontend-red.vercel.app)
 
 ---
 
