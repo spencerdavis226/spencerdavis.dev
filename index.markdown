@@ -15,6 +15,16 @@ I build modern web applications with a focus on clean, maintainable code. My bac
 
 For more details or additional projects, visit my [GitHub](https://github.com/spencerdavis226).
 
+### **[Quizzard](https://github.com/spencerdavis226/Quizzard)**
+
+A full-stack quiz-based learning platform that rewards users with magical powers as they grow their knowledge.<br>
+
+- **Key Features:** User authentication, interactive quizzes, progress tracking (mana + mage meter), leaderboards, friend system, responsive design.<br>
+- **Stack:** React, TypeScript, Vite, CSS, React Router, Node.js, Express, MongoDB (Mongoose), JWT<br>
+- **Live Demo:** [Frontend](https://quizzard-frontend-9dje4uxec-spencerdavis226s-projects.vercel.app) | [Backend API](https://quizzard-backend-gq70.onrender.com)
+
+---
+
 ### **[Dog Adoption Platform API](https://github.com/spencerdavis226/Dog-Adoption-Platform-API)**
 
 A Node.js/Express REST API for user registration, authentication, and managing dog adoption.<br>
@@ -30,15 +40,6 @@ A React-based app simulating spacecraft construction and interplanetary travel.<
 
 - **Key Features:** React Router navigation, dispatching spacecraft to planets, form validation, error boundaries.<br>
 - **Stack:** React, Vite, CSS Modules, Vitest, React Testing Library
-
----
-
-### **[MERN Task Manager](https://github.com/spencerdavis226/MERN-Task-Manager)**
-
-A full-stack task manager built with TypeScript using the MERN stack.<br>
-
-- **Key Features:** CRUD operations, filtering, editing, toggling tasks, plus loading and error handling.<br>
-- **Stack:** MongoDB, Express, React, Node.js, TypeScript, Vite, Bootstrap
 
 ---
 
