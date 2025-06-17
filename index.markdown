@@ -7,7 +7,7 @@ title: Home
 
 **Software Engineer / Full-Stack Developer**
 
-I build modern web applications with a focus on clean, maintainable code. My background in chemical engineering gives me a structured approach to problem-solving, which I now apply to software development. I'm currently looking for a **full-time software engineering role** where I can create impactful products.
+I build modern web applications with a focus on clean, maintainable code. My background in chemical engineering gives me a structured, analytical approach to problem-solving, which I now bring to software development. I graduated from Springboard’s Full-Stack Web Development program in May 2025, and I’m seeking a full-time software engineering role where I can help create impactful products.
 
 ![Profile Image](/assets/images/portrait.png)
 
