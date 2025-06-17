@@ -19,11 +19,11 @@ After earning a B.S. in Chemical Engineering (USF) and an M.Eng. from Cornell, I
 
 I build modern, maintainable web applications using a broad range of technologies:
 
-• **Front End:** JavaScript, TypeScript, React, Next.js, Redux, CSS/CSS Modules, responsive design
-• **Back End:** Node.js, Express, RESTful APIs
-• **Databases:** MongoDB, PostgreSQL
-• **Other Tools & Concepts:** Swift, Python, Agile, async programming, OOP, introductory GraphQL
-• **Testing & Deployment:** Jest, Vitest, React Testing Library, CI/CD workflows
+- **Front End:** JavaScript, TypeScript, React, Next.js, Redux, CSS/CSS Modules, responsive design<br>
+- **Back End:** Node.js, Express, RESTful APIs<br>
+- **Databases:** MongoDB, PostgreSQL<br>
+- **Other Tools & Concepts:** Swift, Python, Agile, async programming, OOP, introductory GraphQL<br>
+- **Testing & Deployment:** Jest, Vitest, React Testing Library, CI/CD workflows
 
 ## My Approach
 
