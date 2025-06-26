@@ -7,32 +7,30 @@ title: 'About'
 
 ## Who I Am
 
-I’m Spencer Davis, a full-stack software engineer with a background in chemical engineering. After earning my B.S. (USF) and M.Eng. (Cornell), I completed Springboard’s Full-Stack Web Development program in May 2025. I build user-friendly, robust web applications and thrive on solving real problems with code.
+I’m Spencer Davis, a process engineer who moved into full‑stack development. The same data‑driven mindset that helped improve optical‑fiber manufacturing now guides the web apps I build.
 
 ## My Journey
 
-I started as an engineer at Transitions Optical, streamlining workflows and developing systems to enhance efficiency in photochromic solution management. At Corning Inc., I further improved manufacturing throughput and led innovative process improvements. My experience in music production and streaming expanded my creativity and adaptability.
-
-After earning a B.S. in Chemical Engineering (USF) and an M.Eng. from Cornell, I followed my passion for technology and software. I recently completed Springboard’s immersive software engineering bootcamp, graduating in May 2025.
+I got my start in manufacturing, first building barcode tools at Transitions Optical and later refining prototype glass processes at Corning. Producing music and livestreaming on the side taught me how to connect with people and think creatively. Springboard’s software bootcamp pulled it all together, giving me the skills to turn that mix of analysis and creativity into code.
 
 ## What I Do
 
 I build modern, maintainable web applications using a broad range of technologies:
 
-- **Front End:** JavaScript, TypeScript, React, Next.js, Redux, CSS/CSS Modules, responsive design<br>
-- **Back End:** Node.js, Express, RESTful APIs<br>
-- **Databases:** MongoDB, PostgreSQL<br>
-- **Other Tools & Concepts:** Swift, Python, Agile, async programming, OOP, introductory GraphQL<br>
-- **Testing & Deployment:** Jest, Vitest, React Testing Library, CI/CD workflows
+- **Front End:** React, Next.js, TypeScript/JavaScript, Redux, CSS Modules, responsive design<br>
+- **Back End & APIs:** Node.js, Express, REST, GraphQL<br>
+- **Databases:** PostgreSQL, MongoDB<br>
+- **Other tools and concepts:** Python, Swift, Git/GitHub, Agile/Scrum, async programming, OOP<br>
+- **Testing & DevOps:** Jest, Vitest, React Testing Library, CI/CD workflows (GitHub Actions)<br>
 
 ## My Approach
 
-I focus on writing clean, scalable code that stands the test of time. Whether solo or on a team, I deliver robust, well-documented, and maintainable solutions.
+I like clear goals, small experiments, quick feedback, and solid notes. That structure keeps projects moving and surprises to a minimum.
 
 ## Interests & Goals
 
-I’m driven to solve real-world problems and continuously refine my craft. I’m seeking a full-time role where I can contribute to innovative projects, collaborate with talented teams, and keep growing as a developer.
+I’m looking for an on‑site or hybrid role in Tampa Bay, or a fully remote position, where I can turn tough problems into clear software and grow alongside a strong team.
 
 ## Let's Connect
 
-I’m always open to discussing ideas, collaborations, or anything tech. Reach out on GitHub or LinkedIn. Reach out on [GitHub](https://github.com/spencerdavis226) or [LinkedIn](https://www.linkedin.com/in/davisspencer/).
+Reach out on [GitHub](https://github.com/spencerdavis226) or [LinkedIn](https://www.linkedin.com/in/davisspencer/).
