@@ -5,9 +5,11 @@ title: Home
 
 # Spencer Davis
 
+
 **Software Engineer / Full-Stack Developer**
 
-I build modern web applications with a focus on clean, maintainable code. My background in chemical engineering gives me a structured, analytical approach to problem-solving, which I now bring to software development. I graduated from Springboard’s Full-Stack Web Development program in May 2025, and I’m seeking a full-time software engineering role where I can help create impactful products.
+I’m a process engineer turned full‑stack developer. I build reliable web apps using the same data‑driven discipline I applied in manufacturing, and I’m driven by the chance to turn tough problems into clear solutions. I’m looking for an on‑site or hybrid role in Tampa Bay, or a fully remote position, with a team that values clean code and steady improvement.
+
 
 ![Profile Image](/assets/images/portrait.png)
 
