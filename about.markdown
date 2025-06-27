@@ -7,11 +7,12 @@ title: 'About'
 
 ## Who I Am
 
-I’m Spencer Davis, a process engineer who moved into full‑stack development. The same data‑driven mindset that helped improve optical‑fiber manufacturing now guides the web apps I build.
+I’m Spencer Davis — a full‑stack software engineer with a master’s in chemical engineering from Cornell. I blend rigorous process‑engineering discipline with modern web‑dev skills to build clean, reliable applications using React, Node.js, TypeScript, and Python.
 
 ## My Journey
 
-I got my start in manufacturing, first building barcode tools at Transitions Optical and later refining prototype glass processes at Corning. Producing music and livestreaming on the side taught me how to connect with people and think creatively. Springboard’s software bootcamp pulled it all together, giving me the skills to turn that mix of analysis and creativity into code.
+I started in manufacturing: first automating barcode tracking at Transitions Optical, then optimizing high‑temperature glass processes at Corning, where I co‑designed patent‑pending equipment. Nights and weekends I produced music and ran a 25 K‑follower livestream channel on Microsoft Mixer— sharpening my instincts for UX, analytics, and rapid iteration.
+In 2024‑25 I completed Springboard’s 800‑hour Software Engineering Career Track, shipping full‑stack projects with test‑driven development and Agile workflows. That program pulled my engineering rigor and creative problem‑solving into one focus: building production‑ready software.
 
 ## What I Do
 
@@ -25,11 +26,11 @@ I build modern, maintainable web applications using a broad range of technologie
 
 ## My Approach
 
-I like clear goals, small experiments, quick feedback, and solid notes. That structure keeps projects moving and surprises to a minimum.
+I prefer measurable goals, small iterations, and fast feedback—whether that’s red‑green‑refactor in TDD or quick feature flags in production. Clear docs and repeatable processes keep teams unblocked and users happy.
 
 ## Interests & Goals
 
-I’m looking for an on‑site or hybrid role in Tampa Bay, or a fully remote position, where I can turn tough problems into clear software and grow alongside a strong team.
+I’m targeting full‑stack or backend roles in Tampa Bay (on‑site or hybrid) or fully remote positions on product teams that value clean code, steady delivery, and continuous learning.
 
 ## Let's Connect
 

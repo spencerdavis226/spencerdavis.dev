@@ -8,7 +8,7 @@ title: Home
 
 **Software Engineer / Full-Stack Developer**
 
-I’m a process engineer turned full‑stack developer. I build reliable web apps using the same data‑driven discipline I applied in manufacturing, and I’m driven by the chance to turn tough problems into clear solutions. I’m looking for an on‑site or hybrid role in Tampa Bay, or a fully remote position, with a team that values clean code and steady improvement.
+I’m a full-stack software engineer with a background in process engineering. I build clean, reliable web applications using React, Node.js, TypeScript, and Python. My approach blends technical precision with iterative improvement, and I’m looking for an on-site or hybrid role in Tampa Bay—or a fully remote position—on a team that values strong fundamentals and steady execution.
 
 
 ![Profile Image](/assets/images/portrait.png)
@@ -19,28 +19,29 @@ For more details or additional projects, visit my [GitHub](https://github.com/sp
 
 ### **[Quizzard](https://github.com/spencerdavis226/Quizzard)**
 
-A full-stack quiz-based learning platform that rewards users with magical powers as they grow their knowledge.<br>
+Full‑stack quiz platform for real‑time multiplayer trivia with JWT‑secured accounts and live leaderboards.<br>
 
-- **Key Features:** User authentication, interactive quizzes, progress tracking (mana + mage meter), leaderboards, friend system, responsive design.<br>
+- **Key Features:** JWT authentication, real‑time leaderboards, friend system, responsive UI.<br>
 - **Stack:** React, TypeScript, Vite, CSS, React Router, Node.js, Express, MongoDB (Mongoose), JWT<br>
+- **Role:** Built end‑to‑end with test‑driven development and clean architecture.<br>
 - **Live Demo:** [Try Quizzard on Vercel](https://quizzard-frontend-red.vercel.app)
 
 ---
 
 ### **[Dog Adoption Platform API](https://github.com/spencerdavis226/Dog-Adoption-Platform-API)**
 
-A Node.js/Express REST API for user registration, authentication, and managing dog adoption.<br>
+RESTful API that powers secure user registration and dog adoption workflows.<br>
 
-- **Key Features:** JWT authentication, secure dog registration/adoption, pagination, Mocha/Chai/Supertest tests.<br>
+- **Key Features:** JWT authentication, secure CRUD for dogs and users, pagination, full test coverage with Mocha/Chai/Supertest.<br>
 - **Stack:** Node.js, Express, MongoDB (Mongoose), JWT, bcrypt
 
 ---
 
 ### **[Space Travel](https://github.com/spencerdavis226/Hatchways-React-Space-Travel)**
 
-A React-based app simulating spacecraft construction and interplanetary travel.<br>
+React demo app that lets users design spacecraft and plan interplanetary missions via a mock API.<br>
 
-- **Key Features:** React Router navigation, dispatching spacecraft to planets, form validation, error boundaries.<br>
+- **Key Features:** Modular component architecture, React Router navigation, robust error boundaries, form validation.<br>
 - **Stack:** React, Vite, CSS Modules, Vitest, React Testing Library
 
 ---
