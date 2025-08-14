@@ -17,6 +17,18 @@ I’m a full-stack software engineer with a background in process engineering. I
 
 For more details or additional projects, visit my [GitHub](https://github.com/spencerdavis226).
 
+
+### **[worldfeel.org](https://github.com/spencerdavis226/worldfeel)**
+
+Real‑time global emotion collection platform that visualizes worldwide sentiment through one‑word submissions.<br>
+
+- **Key Features:** Device‑specific privacy, auto‑expiring data, real‑time statistics, glass‑morphism UI, color‑coded emotions.<br>
+- **Stack:** React, TypeScript, Node.js, Express, MongoDB, Vite, Tailwind CSS. <br>
+- **Role:** Built end‑to‑end with test‑driven development and clean architecture.<br>
+- **Website:** [Try worldfeel.org!](https://www.worldfeel.org)
+
+---
+
 ### **[Quizzard](https://github.com/spencerdavis226/Quizzard)**
 
 Full‑stack quiz platform for real‑time multiplayer trivia with JWT‑secured accounts and live leaderboards.<br>
