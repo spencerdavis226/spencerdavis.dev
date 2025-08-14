@@ -24,7 +24,7 @@ Real‑time global emotion collection platform that visualizes worldwide sentime
 
 - **Key Features:** Device‑specific privacy, auto‑expiring data, real‑time statistics, glass‑morphism UI, color‑coded emotions.<br>
 - **Stack:** React, TypeScript, Node.js, Express, MongoDB, Vite, Tailwind CSS. <br>
-- **Role:** Built end‑to‑end with test‑driven development and clean architecture.<br>
+- **Role:** Built end‑to‑end with responsive design and advanced device fingerprinting.<br>
 - **Website:** [Try worldfeel.org!](https://www.worldfeel.org)
 
 ---
